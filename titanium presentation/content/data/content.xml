@@ -1,0 +1,765 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-7747.915470184144" y="-3448.3601911301994" width="17095.010017851953" height="7210.694699561525"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <spellcheck active="true"/>
+      <mode type="normal"/>
+    </settings>
+    <object id="0_24309637" type="button" x="0" y="0" r="0" s="7.214793702693452" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>blank-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="12_4" type="text" x="-450.6" y="-624.7" r="0" s="25.66503993284245" class="head">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="16777215"><![CDATA[Salvus Web]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0_24309637"/>
+      </layout>
+    </object>
+    <object id="0" type="text" x="606.9436480847197" y="233.95" r="0" s="15.90553751964892" class="strong">
+      <height>28.8</height>
+      <width>-193.344</width>
+      <p>
+        <text color="16777215" style="italic"><![CDATA[Making space safe]]></text>
+      </p>
+    </object>
+    <object id="1" type="text" x="1577.8" y="1543.2" r="0" s="15.90553751964892" class="body">
+      <height>82.79296875</height>
+      <width>214.8554553525783</width>
+      <p>
+        <text color="16777215"><![CDATA[Fatima Fouda]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[Mohammed Ghazy]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[Zeinab Fouda]]></text>
+      </p>
+    </object>
+    <object id="2" type="button" x="5323.6758984602475" y="-2469.081923845187" r="0" s="1.4838673646261273" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1766.0916002972353</w>
+        <h>1324.5687002229267</h>
+      </size>
+    </object>
+    <object id="3" type="text" x="5093" y="-3120.35" r="0" s="10.043658020193636" class="head">
+      <height>28.8</height>
+      <width>192.7939237353289</width>
+      <p>
+        <text color="16777215"><![CDATA[Space is not safe]]></text>
+      </p>
+    </object>
+    <object id="4" type="button" x="4763.95" y="-2637.65" r="0" s="0.71534018795436" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="5" type="image" x="4763.95" y="-2637.7000000000003" r="0" s="0.8044225353922417">
+      <source w="530" h="396">3267514540<url>3267514540.jpg</url></source>
+      <sourceUrl>space-debris-kessler-syndrome-nasa-debrisat-7.jpg</sourceUrl>
+    <resource><id>3267514540</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/9/4/7db32086ab2577e587bf78c67a518a63603d1.jpg</url></resource></object>
+    <object id="6" type="button" x="5962.45" y="-2637.8" r="0" s="0.5047826120025839" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="7" type="image" x="5962.45" y="-2637.8" r="0" s="0.14832563645663488">
+      <source w="1782" h="1800">3267516217<url>3267516217.JPG</url></source>
+      <sourceUrl>Mir_collision_damage_STS086-720-091.JPG</sourceUrl>
+    <resource><id>3267516217</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/8/2/cdc986835124115aeb8187762a517cbf18a10.JPG</url></resource></object>
+    <object id="8" type="button" x="5009.95" y="-1937.5000000000002" r="0" s="0.5047826120025839" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="9" type="image" x="5009.95" y="-1937.5" r="0" s="0.5108795281825401">
+      <source w="640" h="424">3267524059<url>3267524059.jpg</url></source>
+      <sourceUrl>esa-kevlar-nextel-shielding-aluminium-bullet-space-debris-640x424.jpg</sourceUrl>
+    <resource><id>3267524059</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/8/8/812db4a65a273764cbd607e0f9393c6277a2d.jpg</url></resource></object>
+    <object id="10" type="button" x="6212.35" y="-1964.45" r="0" s="0.5047826120025839" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="11" type="image" x="6212.35" y="-1964.45" r="0" s="0.17917925619439218">
+      <source w="1800" h="1204">3267527197<url>3267527197.jpg</url></source>
+      <sourceUrl>STS-118_damaged_tile.jpg</sourceUrl>
+    <resource><id>3267527197</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/b/b/a6a7aaab7d595e478d8ea6904b9911a6844ef.jpg</url></resource></object>
+    <object id="14" type="button" x="5705.25" y="-498.2" r="0" s="1.2290537981946001" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="16" type="text" x="5710.2" y="-475.95" r="0" s="1.9505366006358897" class="body">
+      <height>220.78125</height>
+      <width>389.2167314814379</width>
+      <p>
+        <text color="16777215"><![CDATA[Astronaut's inability to adequately survey their space craft has been a problem ever since Apollo's 13 oxygen tank exploded on the way to the moon and, more recently, when the space shuttle Columbia burned up on reentry because of an undetected breach in the leading edge of the wing.]]></text>
+      </p>
+    </object>
+    <object id="17" type="button" x="4786.45" y="372.85" r="0" s="0.9101508391435377" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="18" type="text" x="4690.845650000001" y="181.95" r="0" s="1.3310000000000004" class="head">
+      <height>28.8</height>
+      <width>-332.1840000000001</width>
+      <p>
+        <text color="16777215"><![CDATA[Proposed Solution; Salvus Web]]></text>
+      </p>
+    </object>
+    <object id="19" type="text" x="4775.799894531249" y="367.754042578125" r="0" s="1.2100000000000004" class="body">
+      <height>193.18359375</height>
+      <width>505.8984375</width>
+      <p>
+        <text color="16777215"><![CDATA[A sensor network that would help in the detection of space debris and enviromental fluctuations, as well as aid in damage inspection. ]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[In case of space debris, the sensor network would also alert the crew and guide them through the maneuver.]]></text>
+      </p>
+    </object>
+    <object id="20" type="button" x="6308.05" y="1037.35" r="0" s="0.8176402906676239" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="21" type="text" x="6251.598373184029" y="845.7367551877846" r="0" s="1.502253341816225" class="head">
+      <height>28.8</height>
+      <width>326.864</width>
+      <p>
+        <text color="16777215"><![CDATA[General Network Workings]]></text>
+      </p>
+    </object>
+    <object id="22" type="text" x="6278.916627604932" y="980.1469347963939" r="0" s="1.128665170410387" class="body">
+      <height>137.98828125</height>
+      <width>483.49921875</width>
+      <p>
+        <text color="16777215"><![CDATA[A sensor network the provides total surface coverage is to be installed on board the space station.]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[Each node contains a cluster of sensors:]]></text>
+      </p>
+      <p indent="1">
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="23" type="text" x="6221.95" y="1152.9999999999998" r="0" s="0.9811371792628057" class="body">
+      <height>220.78125</height>
+      <width>374.4311485395894</width>
+      <p listType="bullet" indent="1">
+        <text color="16777215"><![CDATA[Temperature sensor]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16777215"><![CDATA[Atomic oxygen sensor]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16777215"><![CDATA[viberation sensor]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16777215"><![CDATA[pressure sensor]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16777215"><![CDATA[ultrasonic sensor]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16777215"><![CDATA[speed sensor]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16777215"><![CDATA[radiometer]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16777215"><![CDATA[IR and visible light camera]]></text>
+      </p>
+    </object>
+    <object id="24" type="button" x="5262.25" y="1613.35" r="0" s="0.9095859694411839" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="25" type="text" x="5255.381241812456" y="1615.4192722122884" r="0" s="1.1054787255272485" class="body">
+      <height>303.57421875</height>
+      <width>591.4871213942315</width>
+      <p>
+        <text color="16777215"><![CDATA[Data collefrom these sensors is constantly analyzed and compared against default readings]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[When a deviation is detected, the sesnors around the area of interest are sampled at a highere frequency in order to help quickly determine the danger and/or damage]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[This produces a more accurate and insightful event repor]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[t]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[Cameras located closest to the area of interest can be used to further inspect any damage.]]></text>
+      </p>
+    </object>
+    <object id="26" type="button" x="8897.8" y="-1965.85" r="0" s="1.1246421718843798" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="27" type="image" x="8897.8" y="-1965.85" r="-0.016338343390402542" s="0.2851475679849648">
+      <source w="1800" h="1172">3267717898<url>3267717898.jpg</url></source>
+      <sourceUrl>space-debris-I.jpg</sourceUrl>
+    <resource><id>3267717898</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/6/0/34b5a1922dd4c1ceb049fd54086e5c59310a0.jpg</url></resource></object>
+    <object id="28" type="text" x="8905.7028" y="-2210.32" r="0" s="2.2" class="head">
+      <height>28.8</height>
+      <width>292.528</width>
+      <p align="center">
+        <text color="16777215"><![CDATA[Space Debris in Depth]]></text>
+      </p>
+    </object>
+    <object id="29" type="text" x="8922.647346332646" y="-1722.2293517561986" r="0" s="1.652892561983471" class="body">
+      <height>55.1953125</height>
+      <width>470.16663778161393</width>
+      <p>
+        <text color="16777215"><![CDATA[There are more than 500000 pieces of junk orbitting earth]]></text>
+      </p>
+    </object>
+    <object id="30" type="button" x="8322.65" y="-938.55" r="0" s="1.0235242684927612" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="31" type="text" x="8308.345414418418" y="-932.7577961717095" r="0" s="1.366026910730141" class="body">
+      <height>386.3671875</height>
+      <width>515.9248215926112</width>
+      <p>
+        <text color="16777215"><![CDATA[Because space debris ause alot of considerable damage and require speedy action, we have decided to directly send alerts to the crew whenever an ultrasonic/speed sensor detects motion]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[These alert signals will include the object's velocity, distance, time of impact, as well as appropriate commands e.g. "Move Right".]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[The crew can use the cameras in order to see and learn more about any oncoming object.]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[Cameras are also wired to start recording whenever a motion is detected.]]></text>
+      </p>
+    </object>
+    <object id="34" type="button" x="-5245" y="-1345.15" r="0" s="2.339658668397384" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="33" type="text" x="-5195.25" y="-1361.2" r="0" s="4" class="body">
+      <height>137.98828125</height>
+      <width>394.9991073182481</width>
+      <p>
+        <text color="16777215"><![CDATA[We hope that the installation of Salvus Web would aid in decreasing environment related disasters in space]]></text>
+      </p>
+      <p>
+        <text color="16777215"><![CDATA[Which would encourage investment and exploration endeavors]]></text>
+      </p>
+    </object>
+    <object id="3_133993162" type="button" x="-5595.35" y="3273.15" r="0" s="1.6333372568658628" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_133993162" type="video" x="-5595.25" y="3273.45" r="0" s="2.5945454643386774" onFocus="start" onLeave="pause">
+      <source>3267812677<url>3267812677.mp4</url></source>
+    <resource><id>3267812677</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/c/9/8/0ca602f5a244fe18211c4d2eaccc2dcb73709.mp4</url></resource></object>
+    <object id="5_133993162" type="button" x="-7125.35" y="574.55" r="0" s="1.558361627494729" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="6_133993162" type="image" x="-7125.3" y="574.5" r="0" s="0.8995227247550386">
+      <source w="719" h="761">3267818788<url>3267818788.png</url></source>
+      <sourceUrl>11.png</sourceUrl>
+    <resource><id>3267818788</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/e/b/4e5b0fbe7be53263a7c4f4cffefc95fac46f8.png</url></resource></object>
+    <object id="7_133993162" type="button" x="-6733" y="-426.55" r="0" s="0.24058211723436665" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_133993162" type="image" x="-6733" y="-426.55" r="0" s="0.11286052935814718">
+      <source w="1362" h="748">3267819259<url>3267819259.png</url></source>
+      <sourceUrl>22.png</sourceUrl>
+    <resource><id>3267819259</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/f/0/d43e3a8169ab894d67a8c36c40679c31c94d1.png</url></resource></object>
+  </zui-table>
+  <background>
+    <layer depth="9.256278737539187" fadescale="0.23767650719914227">
+      <object id="background3267483493" type="image" x="0" y="0" r="0" s="15.487125628456768">
+        <source w="1920" h="1080">3267483493<url>3267483493.jpg</url></source>
+        <sourceUrl>space_universe_nebula_stars-1920x1080.jpg</sourceUrl>
+      <resource><id>3267483493</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/1/5/a1b56283ff03406e3357e48b1641cb94ab337.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="2"/>
+    </s>
+    <s>
+      <eagle o="6"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="10"/>
+    </s>
+    <s>
+      <eagle o="14"/>
+    </s>
+    <s>
+      <eagle o="17"/>
+    </s>
+    <s>
+      <eagle o="3_133993162"/>
+    </s>
+    <s>
+      <eagle o="5_133993162"/>
+    </s>
+    <s>
+      <eagle o="7_133993162"/>
+    </s>
+    <s>
+      <eagle o="20"/>
+    </s>
+    <s>
+      <eagle o="24"/>
+    </s>
+    <s>
+      <eagle o="26"/>
+    </s>
+    <s>
+      <eagle o="4"/>
+    </s>
+    <s>
+      <eagle o="30"/>
+    </s>
+    <s>
+      <eagle o="34"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Tinos-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Heuristica-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Heuristica-Regular.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Tinos-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Tinos-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Tinos-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Tinos;
+}
+
+@font-face
+{
+	src: url('Heuristica-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Heuristica-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Heuristica-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Heuristica;
+}
+
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #c7c7c4;
+	gradEndColor: #c7c7c4;
+	gradStartColor: #c7c7c4;
+}
+
+.line2
+{
+	color: #555;
+	gradEndColor: #555;
+	gradStartColor: #888;
+}
+
+.line3
+{
+	color: #5374ec;
+	gradEndColor: #5374ec;
+	gradStartColor: #5374ec;
+}
+
+.line4
+{
+	color: #66e186;
+	gradEndColor: #66e186;
+	gradStartColor: #66e186;
+}
+
+.line5
+{
+	color: #fa5151;
+	gradEndColor: #fa5151;
+	gradStartColor: #fa5151;
+}
+
+.poly1
+{
+	color: #fff;
+	gradEndColor: #c7c7c4;
+	gradStartColor: #c7c7c4;
+}
+
+.poly2
+{
+	color: #fff;
+	gradEndColor: #000;
+	gradStartColor: #333;
+}
+
+.poly3
+{
+	color: #fff;
+	gradEndColor: #5374ec;
+	gradStartColor: #5374ec;
+}
+
+.poly4
+{
+	color: #fff;
+	gradEndColor: #66e186;
+	gradStartColor: #66e186;
+}
+
+.poly5
+{
+	color: #fff;
+	gradEndColor: #fa5151;
+	gradStartColor: #fa5151;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #318bff;
+	gradStartAlpha: 1;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	thickness: 3;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: 3;
+	gradEndAlpha: 1;
+	gradEndColor: #318bff;
+	gradStartAlpha: 1;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	thickness: 3;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #318bff;
+	borderThickness: 10;
+	gradEndAlpha: 0.2;
+	gradEndColor: #318bff;
+	gradStartAlpha: 0;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #e4e4dd;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #f6f1a6;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #333;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #d3e2ee;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: .65;
+	color: #f0ea82;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-19d91118</hash>
+<sync><oid>oz13ee9k61py</oid><title>salvus-web</title><hash>-19d91118</hash></sync><config>csNLjgwVkmYX6VSskYOJxvco0eq+Z5NxAw9LZe7W1vgm1SLm7ZB/9ybggutW+3+sf1qdpV/SRyTWqVPEeUTUJR+p40JXONe43NNuxhFJiKTv48jHUXxK5TqaTGJNJKrRn7JHXg/WtvU/nuZX60MUGK0Dq38XzInnfWwccL8VTbgDY/WrlAXGnuOiINN3LRNMVsrZxfrc2JBKNUxlQ0LdrIxzqQT0LphtF2VZoPRAmo8pSluMv/CsBXMHQm2gZyP4P3wEyiUOzqyFBBMI85L0V+eCrQI0f7trpcChEAMdFoiqTx7/CQ8wtpZX9yJFA9Db7LZGYVvADtIQwEi2owRafA==</config></zuiprezi>
